@@ -541,6 +541,8 @@ fieldset[disabled] .btn-theme {
 .footer .footer-list-item {
   color: #777984;
   display:inline;
+  line-height: 1.4;
+  padding: 12px 12px 12px 15px;
 }
 
 .footer .footer-list-item:last-child {
