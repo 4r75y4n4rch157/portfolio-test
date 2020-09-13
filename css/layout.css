@@ -535,7 +535,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .footer .footer-list {
-  margin-bottom: 0;
+  display:inline;
 }
 
 .footer .footer-list-item {
