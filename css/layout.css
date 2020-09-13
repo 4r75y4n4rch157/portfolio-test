@@ -535,12 +535,12 @@ fieldset[disabled] .btn-theme {
 }
 
 .footer .footer-list {
-  display:inline;
+  margin-bottom: 0;
 }
 
 .footer .footer-list-item {
   color: #777984;
-  margin-bottom: 15px;
+  display:inline;
 }
 
 .footer .footer-list-item:last-child {
