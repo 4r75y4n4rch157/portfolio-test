@@ -532,10 +532,11 @@ fieldset[disabled] .btn-theme {
 .footer .footer-logo {
   width: 100px;
   height: auto;
+  display:inline;
 }
 
 .footer .footer-list {
-  margin-bottom: 0;
+  display:inline;
 }
 
 .footer .footer-list-item {
@@ -544,7 +545,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .footer .footer-list-item:last-child {
-  margin-bottom: 0;
+  display:inline;
 }
 
 /*------------------------------------------------------------------
