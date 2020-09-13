@@ -697,7 +697,6 @@ fieldset[disabled] .btn-theme {
   display: block;
   width: 19.99%;
   float: right;
-  vertical-align: top;
   padding: 0 2px;
   margin-bottom: 4px;
 }
