@@ -647,6 +647,7 @@ fieldset[disabled] .btn-theme {
 .header .logo-wrap {
   display: inline-block;
   padding: 0px 0;
+  height: 100px;
 }
 
 .header .logo-wrap:focus, .header .logo-wrap:hover {
