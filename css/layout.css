@@ -532,6 +532,7 @@ fieldset[disabled] .btn-theme {
 .footer .footer-logo {
   width: 100px;
   height: auto;
+  align-self: center;
 }
 
 .footer {
