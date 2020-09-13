@@ -530,9 +530,10 @@ fieldset[disabled] .btn-theme {
   	[Footer]
 ------------------------------------------------------------------*/
 .footer .footer-logo {
-  width: 100px;
-  height: auto;
-  align-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 .footer {
