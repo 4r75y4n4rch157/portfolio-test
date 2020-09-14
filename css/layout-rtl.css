@@ -312,8 +312,8 @@ fieldset[disabled] .btn-theme {
 .footer .footer-logo {
   display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 40%;
+  margin-right: 20%;
+  width: 30%;
 }
 
 .footer .footer-list {
