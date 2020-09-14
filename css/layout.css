@@ -414,6 +414,7 @@ fieldset[disabled] .btn-theme {
 .work .work-overlay {
   position: relative;
   cursor: pointer;
+  overflow: auto;
 }
 
 .work .work-overlay:before {
