@@ -260,6 +260,7 @@ fieldset[disabled] .btn-theme {
 ------------------------------------------------------------------*/
 .work .work-overlay {
   position: relative;
+  overflow: auto;
 }
 
 .work .work-overlay:before {
