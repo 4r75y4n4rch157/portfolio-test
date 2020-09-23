@@ -412,9 +412,9 @@ fieldset[disabled] .btn-theme {
 }
 
 .work .work-overlay {
-  position: relative;
+  position: sticky;
   cursor: pointer;
-  overflow: auto;
+  overflow: scroll;
 }
 
 .work .work-overlay:before {
