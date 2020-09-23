@@ -409,7 +409,8 @@ fieldset[disabled] .btn-theme {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  padding: 5px;
+  width: 220px;
 }
 
 .footer {
