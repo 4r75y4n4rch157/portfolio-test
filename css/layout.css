@@ -520,7 +520,7 @@ fieldset[disabled] .btn-theme {
 .header .logo {
   width: 100px;
   height: 100px;
-  float: left;
+  float: center;
   max-height: 95px;
   line-height: 65px;
 }
@@ -713,7 +713,7 @@ fieldset[disabled] .btn-theme {
 /* Page On Scroll */
 @media (min-width: 992px) {
   .page-on-scroll .header .navbar {
-    background: #fff;
+    background: rgb(41, 3, 3);
     border-bottom-color: #f0f0f0;
     transition-duration: 300ms;
     transition-property: all;
@@ -829,7 +829,7 @@ fieldset[disabled] .btn-theme {
   font-size: 14px;
   font-weight: 400;
   color: #a6a7aa;
-  background: #fafafa;
+  background: #1d0000;
   border: none;
   box-shadow: none;
   border-radius: 0;
@@ -878,11 +878,11 @@ fieldset[disabled] .btn-theme {
     [Carousel]
 ------------------------------------------------------------------*/
 .carousel-indicators {
-  left: auto;
+  left: 50%;
   width: auto;
   padding-left: 0;
   margin-left: 0;
-  height: 500px;
+  height: 900px;
 }
 
 .carousel-centered {
@@ -975,7 +975,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .bg-color-white {
-  background: #fff !important;
+  background: #1d0000 !important;
 }
 
 .bg-color-heading {
@@ -995,7 +995,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .bg-color-sky-light {
-  background: #fafafa !important;
+  background: #250505 !important;
 }
 
 /*------------------------------------------------------------------
