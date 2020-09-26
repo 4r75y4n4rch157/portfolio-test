@@ -180,7 +180,7 @@ h4 {
 
 .accordion .panel-default > .panel-heading {
   color: #515769;
-  background: #fff;
+  background: rgb(80, 79, 79);
   border: none;
   padding: 0;
 }
@@ -310,7 +310,7 @@ fieldset[disabled] .btn-theme {
 ------------------------------------------------------------------*/
 .pricing {
   padding: 70px 45px;
-  background: #fff;
+  background: rgb(20, 20, 20);
   margin-top: 50px;
 }
 
@@ -362,7 +362,7 @@ fieldset[disabled] .btn-theme {
   	[Service]
 ------------------------------------------------------------------*/
 .service {
-  background: #fff;
+  background: rgb(29, 17, 17);
   padding: 50px;
 }
 
@@ -882,7 +882,7 @@ fieldset[disabled] .btn-theme {
   width: auto;
   padding-left: 0;
   margin-left: 0;
-  height: 900px;
+  height: 700px;
 }
 
 .carousel-centered {
