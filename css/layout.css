@@ -882,6 +882,7 @@ fieldset[disabled] .btn-theme {
   width: auto;
   padding-left: 0;
   margin-left: 0;
+  height: 500px;
 }
 
 .carousel-centered {
