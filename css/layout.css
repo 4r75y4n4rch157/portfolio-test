@@ -629,7 +629,7 @@ fieldset[disabled] .btn-theme {
   /* Bootstrap collapse of navigation with a maximum width: 991px
     (Change it to any breakpoint you want to be collapsed) */
   .header {
-    background: #fff;
+    background: #650021;
   }
   .header .navbar-toggle {
     display: block;
