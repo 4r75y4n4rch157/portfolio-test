@@ -1,27 +1,4 @@
-/*----------------------------------------------------------------------
 
-	MASTER STYLESHEET
-
-	Project:        Metronic "Aitonepage" Frontend Freebie - Responsive HTML Template Based On Twitter Bootstrap 3.3.4
-	Version:        1.0
-	Author:         KeenThemes
-	Primary use:    Corporate, Business Themes.
-	Email:			support@keenthemes.com
-	Follow: 		http://www.twitter.com/keenthemes
-	Like: 			http://www.facebook.com/keenthemes
-	Website:		http://www.keenthemes.com
-	Premium:		Premium Metronic Admin Theme: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
-
------------------------------------------------------------------------*/
-/* eg: @include user-select(none); */
-/* eg: @include rotate(45deg); */
-/* eg: @include translate3d(0,0,0); */
-/* eg: @include border-radius(3px); */
-/* eg: @include visibility-backface(hidden); */
-/*------------------------------------------------------------------
-  	[The "base.scss" contains basic default element styles
-  		(colors, typography, margins & padding).]
-------------------------------------------------------------------*/
 html {
   overflow-x: hidden;
 }
@@ -87,7 +64,7 @@ span {
   font-size: 14px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #bfc1c7;
+  color: #8c9cc9;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -179,8 +156,8 @@ h4 {
 }
 
 .accordion .panel-default > .panel-heading {
-  color: #515769;
-  background: rgb(80, 79, 79);
+  color: #0b132b;
+  background: rgb(82, 28, 28);
   border: none;
   padding: 0;
 }
@@ -208,8 +185,8 @@ h4 {
 
 .accordion [aria-expanded="true"],
 .accordion .collapse.in {
-  color: #fff;
-  background: #17bed2;
+  color: #083338;
+  background: #0f5d66;
 }
 
 /*------------------------------------------------------------------
@@ -559,7 +536,7 @@ fieldset[disabled] .btn-theme {
 /* Navbar */
 .header .navbar-nav {
   padding-left: 0;
-  margin-bottom: 0;
+  margin-bottom: 10PX;
   list-style: none;
 }
 
@@ -593,7 +570,7 @@ fieldset[disabled] .btn-theme {
   font-size: 13px;
   font-weight: 600;
   font-family: Hind, sans-serif;
-  color: rgb(75, 75, 75);
+  color: rgb(22, 21, 21);
   text-transform: uppercase;
   line-height: 55px;
   padding: 20px;
@@ -618,7 +595,7 @@ fieldset[disabled] .btn-theme {
   height: 2px;
   background: #17bed2;
   opacity: 0;
-  content: " ";
+  content: "SQUIDS";
   transition-duration: 400ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -668,7 +645,7 @@ fieldset[disabled] .btn-theme {
   }
   /* Navbar Nav */
   .header .nav-item-child {
-    color: #515769;
+    color: #010613;
     line-height: 1.4;
     padding: 12px 12px 12px 15px;
   }
@@ -713,7 +690,7 @@ fieldset[disabled] .btn-theme {
 /* Page On Scroll */
 @media (min-width: 992px) {
   .page-on-scroll .header .navbar {
-    background: rgb(41, 3, 3);
+    background: rgb(41, 38, 38);
     border-bottom-color: #000000;
     transition-duration: 300ms;
     transition-property: all;
@@ -944,7 +921,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .color-white {
-  color: #fff !important;
+  color: rgb(32, 51, 9) !important;
 }
 
 .color-heading {
