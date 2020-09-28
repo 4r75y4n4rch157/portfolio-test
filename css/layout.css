@@ -410,7 +410,7 @@ fieldset[disabled] .btn-theme {
 ------------------------------------------------------------------*/
 /* Fixed Top */
 .navbar-fixed-top .navbar-collapse {
-  max-height: 100%;
+  max-height: 50%;
 }
 
 /* Navbar */
@@ -445,7 +445,7 @@ fieldset[disabled] .btn-theme {
 .header .navbar-toggle .toggle-icon:before, .header .navbar-toggle .toggle-icon:after {
   position: absolute;
   left: 0;
-  background: #515769;
+  background: #130c30;
   content: " ";
 }
 
@@ -474,7 +474,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .header .navbar-toggle:hover .toggle-icon {
-  background: #17bed2;
+  background: #2d656b;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -570,7 +570,7 @@ fieldset[disabled] .btn-theme {
   font-size: 13px;
   font-weight: 600;
   font-family: Hind, sans-serif;
-  color: rgb(22, 21, 21);
+  color: rgb(9, 9, 71);
   text-transform: uppercase;
   line-height: 55px;
   padding: 20px;
@@ -593,9 +593,9 @@ fieldset[disabled] .btn-theme {
   left: 0;
   width: 9px;
   height: 2px;
-  background: #17bed2;
+  background: #1f990f79;
   opacity: 0;
-  content: "SQUIDS";
+  content: "";
   transition-duration: 400ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -721,7 +721,7 @@ fieldset[disabled] .btn-theme {
 ------------------------------------------------------------------*/
 .contact-list > li {
   font-size: 13px;
-  color: #81848f;
+  color: #a30909;
   margin-bottom: 10px;
 }
 
@@ -814,15 +814,15 @@ fieldset[disabled] .btn-theme {
 }
 
 .form-control::-moz-placeholder {
-  color: #a6a7aa;
+  color: #344066;
 }
 
 .form-control:-ms-input-placeholder {
-  color: #a6a7aa;
+  color: #344066;
 }
 
 .form-control::-webkit-input-placeholder {
-  color: #a6a7aa;
+  color: #344066;
 }
 
 .form-control:focus {
@@ -941,14 +941,14 @@ fieldset[disabled] .btn-theme {
 }
 
 .color-sky-light {
-  color: #fafafa !important;
+  color: #344066 !important;
 }
 
 /*------------------------------------------------------------------
   	[Background Colors]
 ------------------------------------------------------------------*/
 .bg-color-base {
-  background: #17bed2 !important;
+  background: #344066 !important;
 }
 
 .bg-color-white {
@@ -956,15 +956,15 @@ fieldset[disabled] .btn-theme {
 }
 
 .bg-color-heading {
-  background: #515769 !important;
+  background: #344066 !important;
 }
 
 .bg-color-subtitle {
-  background: #a6a7aa !important;
+  background: #344066 !important;
 }
 
 .bg-color-link {
-  background: #81848f !important;
+  background: #344066 !important;
 }
 
 .bg-color-link-hover {
