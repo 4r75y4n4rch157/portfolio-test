@@ -16,7 +16,7 @@ p {
   font-size: 15px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #a6a7aa;
+  color: #464646;
   line-height: 1.4;
   margin-bottom: 15px;
 }
@@ -32,13 +32,13 @@ li a {
 
 a {
   font-family: Hind, sans-serif;
-  color: #81848f;
+  color: #373c4d;
   outline: 0;
 }
 
 a:focus, a:hover, a:active {
   outline: 0;
-  color: #999caa;
+  color: #273263;
   text-decoration: none;
 }
 
@@ -56,7 +56,7 @@ a:focus, a:hover, a:active {
   right: -15px;
   width: 9px;
   height: 2px;
-  background: #17bed2;
+  background: #072f33;
   content: " ";
 }
 
@@ -64,7 +64,7 @@ span {
   font-size: 14px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #8c9cc9;
+  color: #5c6b92;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -80,7 +80,7 @@ h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a {
 }
 
 h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hover {
-  color: #999caa;
+  color: #22242e;
   text-decoration: none;
 }
 
@@ -105,20 +105,20 @@ h4 {
 }
 
 ::selection {
-  color: #fff;
-  background: #17bed2;
+  color: rgb(8, 3, 36);
+  background: #141335;
   text-shadow: none;
 }
 
 ::-webkit-selection {
-  color: #fff;
-  background: #17bed2;
+  color: rgb(73, 34, 34);
+  background: #143c41;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  color: #fff;
-  background: #17bed2;
+  color: rgb(25, 240, 107);
+  background: #078a1d;
   text-shadow: none;
 }
 
@@ -129,7 +129,7 @@ h4 {
 
 /* Section Seperator */
 .section-seperator {
-  border-bottom: 1px solid #edf0f2;
+  border-bottom: 1px solid #bfe906;
 }
 
 /* Content Wrapper Link */
@@ -238,41 +238,41 @@ fieldset[disabled] .btn-theme {
 }
 
 .btn-white-bg {
-  color: #fff;
+  color: rgb(214, 0, 0);
   background: #515769;
   border-color: transparent;
   border-width: 0;
 }
 
 .btn-white-bg:hover, .btn-white-bg:focus, .btn-white-bg.focus {
-  color: #fff;
-  background: #17bed2;
+  color: rgb(0, 0, 0);
+  background: #05272b;
   border-color: transparent;
 }
 
 .btn-white-brd {
-  color: #fff;
+  color: rgb(255, 124, 124);
   background: transparent;
-  border-color: #fff;
+  border-color: rgb(0, 0, 0);
   border-width: 2px;
 }
 
 .btn-white-brd:hover, .btn-white-brd:focus, .btn-white-brd.focus {
   color: #515769;
-  background: #fff;
-  border-color: #fff;
+  background: rgb(100, 4, 4);
+  border-color: rgb(0, 0, 0);
 }
 
 .btn-default-bg {
   color: #515769;
-  background: #f3f4f5;
+  background: #0d2033;
   border-color: transparent;
   border-width: 0;
 }
 
 .btn-default-bg:hover, .btn-default-bg:focus, .btn-default-bg.focus {
-  color: #fff;
-  background: #17bed2;
+  color: rgb(255, 0, 0);
+  background: #fd0481;
   border-color: transparent;
 }
 
@@ -280,59 +280,6 @@ fieldset[disabled] .btn-theme {
   font-size: 13px;
   font-weight: 600;
   padding: 15px 40px;
-}
-
-/*------------------------------------------------------------------
-  	[Pricing]
-------------------------------------------------------------------*/
-.pricing {
-  padding: 70px 45px;
-  background: rgb(20, 20, 20);
-  margin-top: 50px;
-}
-
-@media (max-width: 768px) {
-  .pricing {
-    margin-top: 0;
-  }
-}
-
-.pricing.pricing-active {
-  padding-top: 110px;
-  padding-bottom: 110px;
-  margin-top: 10px;
-}
-
-@media (max-width: 768px) {
-  .pricing.pricing-active {
-    margin-top: 0;
-  }
-}
-
-.pricing .pricing-icon {
-  display: block;
-  font-size: 30px;
-  color: #999caa;
-  margin-bottom: 30px;
-}
-
-.pricing .pricing-list-item {
-  position: relative;
-  font-size: 13px;
-  color: #81848f;
-  padding-left: 20px;
-  margin-bottom: 10px;
-}
-
-.pricing .pricing-list-item:before {
-  position: absolute;
-  top: 7px;
-  left: 0;
-  width: 9px;
-  height: 2px;
-  background: #17bed2;
-  content: " ";
-  margin-right: 10px;
 }
 
 /*------------------------------------------------------------------
@@ -356,7 +303,7 @@ fieldset[disabled] .btn-theme {
 .service .service-icon {
   display: block;
   font-size: 30px;
-  color: #999caa;
+  color: #3d4770;
   margin-bottom: 30px;
 }
 
@@ -395,7 +342,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .footer .footer-list-item {
-  color: #777984;
+  color: #333a64;
   display:inline;
   line-height: 1.4;
   padding: 12px 12px 12px 15px;
@@ -436,7 +383,7 @@ fieldset[disabled] .btn-theme {
   width: 21px;
   height: 1px;
   display: inline-block;
-  background: #515769;
+  background: #001144;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -483,7 +430,7 @@ fieldset[disabled] .btn-theme {
 .header .navbar-toggle:hover .toggle-icon:before, .header .navbar-toggle:hover .toggle-icon:after {
   width: 21px;
   height: 1px;
-  background: #17bed2;
+  background: #0d3f44;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -593,7 +540,7 @@ fieldset[disabled] .btn-theme {
   left: 0;
   width: 9px;
   height: 2px;
-  background: #1f990f79;
+  background: #118f0179;
   opacity: 0;
   content: "";
   transition-duration: 400ms;
@@ -805,7 +752,7 @@ fieldset[disabled] .btn-theme {
   height: 50px;
   font-size: 14px;
   font-weight: 400;
-  color: #a6a7aa;
+  color: #131d3a;
   background: #1d0000;
   border: none;
   box-shadow: none;
@@ -873,7 +820,7 @@ fieldset[disabled] .btn-theme {
 .carousel-title {
   font-size: 80px;
   font-weight: 700;
-  color: #fff;
+  color: rgb(27, 129, 13);
   line-height: 1.1;
   text-transform: uppercase;
 }
@@ -917,7 +864,7 @@ fieldset[disabled] .btn-theme {
   	[Text Colors]
 ------------------------------------------------------------------*/
 .color-base {
-  color: #17bed2 !important;
+  color: #0b2a2e !important;
 }
 
 .color-white {
@@ -929,15 +876,15 @@ fieldset[disabled] .btn-theme {
 }
 
 .color-subtitle {
-  color: #a6a7aa !important;
+  color: #515f88 !important;
 }
 
 .color-link {
-  color: #81848f !important;
+  color: #4257a5 !important;
 }
 
 .color-link-hover {
-  color: #999caa !important;
+  color: #122a96 !important;
 }
 
 .color-sky-light {
@@ -968,7 +915,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .bg-color-link-hover {
-  background: #999caa !important;
+  background: #002fff !important;
 }
 
 .bg-color-sky-light {
