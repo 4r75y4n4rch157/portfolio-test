@@ -27,6 +27,7 @@ p {
 ------------------------------------------------------------------*/
 .navbar {
   background-color: coral;
+  height: 160px;
 }
 
 .menu-container {
