@@ -223,6 +223,7 @@
         <!--========== END PAGE LAYOUT ==========-->
 
         <!--========== FOOTER ==========-->
+        <div id="like_button_container"></div>
         <footer class="footer">
             <img class="footer-logo" src="img/logo1.png" alt="Footer Logo">
         </footer>
@@ -251,7 +252,13 @@
         <script src="js/components/wow.min.js" type="text/javascript"></script>
         <script src="js/components/swiper.min.js" type="text/javascript"></script>
         <script src="js/components/masonry.min.js" type="text/javascript"></script>
+         <!-- Load React. -->
+        <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+        <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+        <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
 
+        <!-- Load our React component. -->
+        <script src="like_button.js"></script>
     </body>
     <!-- END BODY -->
 </html>
