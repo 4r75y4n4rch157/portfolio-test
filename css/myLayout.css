@@ -20,6 +20,14 @@ html {
 .header {
   height: 125px;
 }
+
+.logo-img, .logo-img-main {
+  height: 50%;
+}
+
+.logo-img, .logo-img-active {
+  height: 50%;
+}
 /*--------------------------------------------------
     [Back To Top Theme Button]
 ----------------------------------------------------*/
