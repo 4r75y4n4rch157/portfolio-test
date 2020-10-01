@@ -26,8 +26,8 @@ p {
   	[Nav-bar]
 ------------------------------------------------------------------*/
 .navbar {
-  background-image: url("06.jpg");
-  opacity: 20%;
+  background-image: "06.jpg";
+  opacity: 80%;
   height: 160px;
 }
 
@@ -48,7 +48,7 @@ p {
 }
 
 .nav.navbar-nav.navbar-nav-right {
-  text-align: right;
+  padding-left: 80%;
 }
 /*------------------------------------------------------------------
   	[Contact]
