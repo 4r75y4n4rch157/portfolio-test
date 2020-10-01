@@ -39,7 +39,7 @@ p {
     color: #000000;
 }
 
-.nav-item-child {
+.logo {
 
 }
 
@@ -48,7 +48,7 @@ p {
 }
 
 .nav.navbar-nav.navbar-nav-right {
-  padding-left: 80%;
+  padding-left: 60%;
 }
 /*------------------------------------------------------------------
   	[Contact]
@@ -69,14 +69,14 @@ p {
 }
 
 .logo-img.logo-img-main {
-  display: block;
+  display: inline-block;
   padding: 5px;
   height: 125px;
   margin-right: 80%;
 }
 
 .logo-img.logo-img-active {
-  display: block;
+  display: inline-block;
   padding: 5px;
   height: 125px;
   margin-left: 80%;
