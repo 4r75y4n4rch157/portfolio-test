@@ -289,8 +289,9 @@ p {
   }
   
   .content-lg {
-    padding-top: 300px;
+    padding-top: 230px;
     padding-bottom: 100px;
+    background-image: url("img\1920x1080\10.jpg");
   }
   
   /*------------------------------------------------------------------
