@@ -22,8 +22,8 @@ p {
   margin-left: 10px;
 }
 
-.Clients {
-  background: stretch /contain no-repeat url("10.jpg");
+.col-sm-6 {
+  align-self: center;
 }
 /*------------------------------------------------------------------
   	[Nav-bar]
@@ -31,8 +31,8 @@ p {
 .navbar {
   background-image: url("06.jpg");
   background-repeat: no-repeat;
-  opacity: 80%;
-  height: 160px;
+  opacity: 90%;
+  height: 185px;
 }
 
 .menu-container {
@@ -224,7 +224,9 @@ p {
     transition-property: all;
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
   }
-
+  .Clients {
+    background: scroll /contain no-repeat url("10.jpg");
+  }
 /*------------------------------------------------------------------
   	[Text Colors]
 ------------------------------------------------------------------*/
