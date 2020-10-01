@@ -5,7 +5,7 @@ html {
   }
 
 h2 {
-  text-align: center;
+  text-align: left;
   font-size: 36px;
   color: #1b0404;
   margin-bottom: 10px;
@@ -14,7 +14,7 @@ h2 {
 }
 
 p {
-  text-align: center;
+  text-align: left;
   font-size: 16px;
   color: #300101;
   margin-bottom: 10px;
@@ -38,12 +38,14 @@ p {
   padding-bottom: 10px;
 }
 
-.js_nav-item {
+.js_nav-item.nav-item {
     color: #000000;
 }
 
 .nav-item-child:hover {
     color: #07318b;
+    width: 15px;
+    background-color: rgb(161, 161, 18);
 }
 
 .nav.navbar-nav.navbar-nav-right {
