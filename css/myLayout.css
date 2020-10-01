@@ -26,7 +26,7 @@ p {
   	[Nav-bar]
 ------------------------------------------------------------------*/
 .navbar {
-  background-image: image("img\1920x1080\06.jpg");
+  background-image: url("C:\Users\4r75y\OneDrive\Documents\GitHub\portfolio-test\img\1920x1080\06.jpg");
   background-repeat: no-repeat;
   opacity: 80%;
   height: 160px;
@@ -69,14 +69,14 @@ p {
   display: inline-block;
   padding: 5px;
   height: 125px;
-  margin-right: auto;
+  margin-right: 30px;
 }
 
 .logo-img.logo-img-active {
   display: inline-block;
   padding: 5px;
   height: 125px;
-  margin-left: auto;
+  align-content: right;
 }
 /*--------------------------------------------------
     [Back To Top Theme Button]
