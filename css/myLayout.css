@@ -26,7 +26,8 @@ p {
   	[Nav-bar]
 ------------------------------------------------------------------*/
 .navbar {
-  background-image: url("img\1920x1080\06.jpg");
+  background-image: image("img\1920x1080\06.jpg");
+  background-repeat: no-repeat;
   opacity: 80%;
   height: 160px;
 }
@@ -37,10 +38,6 @@ p {
 
 .js_nav-item {
     color: #000000;
-}
-
-.logo {
-
 }
 
 .nav-item-child.nav-item-hover {
@@ -72,14 +69,14 @@ p {
   display: inline-block;
   padding: 5px;
   height: 125px;
-  margin-right: 80%;
+  margin-right: auto;
 }
 
 .logo-img.logo-img-active {
   display: inline-block;
   padding: 5px;
   height: 125px;
-  margin-left: 80%;
+  margin-left: auto;
 }
 /*--------------------------------------------------
     [Back To Top Theme Button]
