@@ -31,7 +31,7 @@ p {
 .navbar {
   background-color: black;
   opacity: 90%;
-  height: 185px;
+  height: 125px;
 }
 
 .menu-container {
@@ -298,6 +298,13 @@ p {
     padding-bottom: 100px;
   }
   
+
+  .skills-container {
+    text-align: left;
+    color: black;
+  }
+
+
   /*------------------------------------------------------------------
       [Full Width]
   ------------------------------------------------------------------*/
