@@ -22,6 +22,9 @@ p {
   margin-left: 10px;
 }
 
+.Clients {
+  background: stretch /contain no-repeat url("10.jpg");
+}
 /*------------------------------------------------------------------
   	[Nav-bar]
 ------------------------------------------------------------------*/
@@ -291,7 +294,6 @@ p {
   .content-lg {
     padding-top: 230px;
     padding-bottom: 100px;
-    background: center /contain no-repeat url("10.jpg");
   }
   
   /*------------------------------------------------------------------
