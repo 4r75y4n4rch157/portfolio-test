@@ -26,7 +26,7 @@ p {
   	[Nav-bar]
 ------------------------------------------------------------------*/
 .navbar {
-  background-image: url("C:\Users\4r75y\OneDrive\Documents\GitHub\portfolio-test\img\1920x1080\06.jpg");
+  background-image: url("06.jpg");
   background-repeat: no-repeat;
   opacity: 80%;
   height: 160px;
@@ -91,7 +91,7 @@ p {
     height: 40px;
     font-size: 11px;
     font-weight: 400;
-    color: #fff;
+    color: rgb(99, 6, 6);
     text-align: center;
     line-height: 3;
     letter-spacing: 1px;
@@ -250,7 +250,7 @@ p {
   }
   
   .bg-color-link-hover {
-    background: #999caa !important;
+    background: #3b4366 !important;
   }
   
   .bg-color-sky-light {
@@ -291,7 +291,7 @@ p {
   .content-lg {
     padding-top: 230px;
     padding-bottom: 100px;
-    background-image: url("img\1920x1080\10.jpg");
+    background: center /contain no-repeat url("10.jpg");
   }
   
   /*------------------------------------------------------------------
