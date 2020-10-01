@@ -26,7 +26,8 @@ p {
   	[Nav-bar]
 ------------------------------------------------------------------*/
 .navbar {
-  background-color: coral;
+  background-image: url("06.jpg");
+  opacity: 50%;
   height: 160px;
 }
 
@@ -38,7 +39,7 @@ p {
     color: #000000;
 }
 
-.nav-item-hover {
+.nav-item-child.nav-item-hover {
     color: #07318b;
 }
 /*------------------------------------------------------------------
