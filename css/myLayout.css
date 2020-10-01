@@ -29,8 +29,7 @@ p {
   	[Nav-bar]
 ------------------------------------------------------------------*/
 .navbar {
-  background-image: url("06.jpg");
-  background-repeat: no-repeat;
+  background-color: black;
   opacity: 90%;
   height: 185px;
 }
