@@ -169,9 +169,10 @@ p {
   .carousel-indicators {
     left: 50%;
     width: auto;
+    padding-top: 200px;
     padding-left: 0;
     margin-left: 0;
-    height: 700px;
+    height: 600px;
   }
   
   .carousel-centered {
