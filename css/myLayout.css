@@ -44,7 +44,7 @@ p {
 
 .nav-item-child:hover {
     color: #07318b;
-    width: 15px;
+    height: 15px;
     background-color: rgb(161, 161, 18);
 }
 
