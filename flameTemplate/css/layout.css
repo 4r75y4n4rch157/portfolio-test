@@ -993,7 +993,7 @@ fieldset[disabled] .btn-theme {
     [Full Screen Carousel]
 ------------------------------------------------------------------*/
 .full-screen {
-  background-size: cover;
+  background-size: 100% 55%;
   background-position: center;
   background-repeat: no-repeat;
 }
