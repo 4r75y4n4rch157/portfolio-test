@@ -663,7 +663,7 @@ fieldset[disabled] .btn-theme {
   display: inline-block;
   width: 100px;
   height: 100px;
-  vertical-align: middle;
+  vertical-align: left;
 }
 
 .header .logo-img-main {
