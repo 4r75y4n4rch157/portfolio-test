@@ -1024,7 +1024,7 @@ fieldset[disabled] .btn-theme {
   text-transform: uppercase;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   .carousel-title {
     font-size: 60px;
   }
