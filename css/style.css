@@ -178,6 +178,9 @@ a:hover
 	ul.style3 li {
 		padding: 1.75em 0em 1.50em 0em;
 		border-top: 1px solid #212124;
+		color: #288b1b;
+		line-height: 1.75em;
+		list-style: decimal;
 	}
 	
 	ul.style3 .heading-title {
@@ -196,7 +199,7 @@ a:hover
 		text-align: center;
 		font-size: 13;
 		background: #2B8FC4;
-		border-radius: 6px;
+		border-radius: 5px;
 		border: 1px solid #165272;
 		box-shadow: 0px 1px 5px rgba(0,0,0,.4);
 		color: #FFFFFF;
