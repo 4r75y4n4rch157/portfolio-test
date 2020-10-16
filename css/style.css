@@ -168,7 +168,7 @@ a:hover
 	ul.style3 {
 		margin: 0em;
 		padding: 0em 0em 0em 0em;
-		list-style-image: url('images/call.gif');
+		list-style-image: url(images/call.gif);
 	}
 	
 	
