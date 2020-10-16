@@ -178,8 +178,9 @@ a:hover
 	}
 	
 	ul.style3 .heading-title {
-		font-size: 13px;
+		font-size: 16px;
 		font-weight: bold;
+		text-align: center;
 		color: #B8B8B8;
 	}
 	
@@ -188,7 +189,7 @@ a:hover
 		margin: 0em 1em 1em 0em;
 		text-transform: uppercase;
 		text-align: center;
-		font-size: .80em;
+		font-size: 13;
 		background: #2B8FC4;
 		border-radius: 5px;
 		border: 1px solid #165272;
