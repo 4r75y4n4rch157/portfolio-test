@@ -36,16 +36,23 @@ body {
 }
 
 p {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #a6a7aa;
-  line-height: 1.4;
-  margin-bottom: 15px;
+  color: #192d69;
+  line-height: 1.2;
+  margin-bottom: 10px;
+  margin-left: 15px;
 }
 
 em,
-li,
+li {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Courier New", Courier, monospace
+  color: #192d69;
+}
+
 li a {
   font-size: 16px;
   font-weight: 500;
