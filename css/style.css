@@ -168,14 +168,13 @@ a:hover
 	ul.style3 {
 		margin: 0em;
 		padding: 0em 0em 0em 0em;
-		list-style: none;
 	}
 	
 	
 	ul.style3 li {
 		padding: 1.75em 0em 1.50em 0em;
 		border-top: 1px solid #212124;
-		list-style-image: url(images\call.gif) no-repeat left 50%;
+		list-style-image: url('call.gif');
 	}
 	
 	ul.style3 .heading-title {
