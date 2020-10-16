@@ -187,6 +187,7 @@ a:hover
 		display: inline-block;
 		margin: 0em 1em 1em 0em;
 		text-transform: uppercase;
+		text-align: center;
 		font-size: .80em;
 		background: #2B8FC4;
 		border-radius: 5px;
