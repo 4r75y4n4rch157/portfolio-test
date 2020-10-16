@@ -35,17 +35,14 @@ h2
 	font-size: 2.00em;
 }
 
-h3{
-	font-size: 18pt;
-	font-family: 'Courier New', Courier, monospace;
-}
-
 p, ol, ul
 {
 	margin-top: 1em;
 }
 
-
+p
+{
+}
 
 a
 {
@@ -178,17 +175,11 @@ a:hover
 	ul.style3 li {
 		padding: 1.75em 0em 1.50em 0em;
 		border-top: 1px solid #212124;
-		color: #aa0505;
-		line-height: 1.75em;
-		list-style-type: katakana;
 	}
 	
 	ul.style3 .heading-title {
-		display: inline-block;
-		font-size: 16px;
+		font-size: 1.10em;
 		font-weight: bold;
-		text-align: center;
-		vertical-align: top;
 		color: #B8B8B8;
 	}
 	
@@ -196,13 +187,12 @@ a:hover
 		display: inline-block;
 		margin: 0em 1em 1em 0em;
 		text-transform: uppercase;
-		text-align: center;
-		font-size: 13;
-		background: #572708;
+		font-size: .80em;
+		background: #2B8FC4;
 		border-radius: 5px;
 		border: 1px solid #165272;
 		box-shadow: 0px 1px 5px rgba(0,0,0,.4);
-		color: #020202;
+		color: #FFFFFF;
 	}
 	
 	ul.style3 .date a
@@ -283,7 +273,6 @@ a:hover
 	
 	ul.style5 li
 	{
-		color: #141b55;
 		line-height: 1.75em;
 		list-style: decimal;
 	}
