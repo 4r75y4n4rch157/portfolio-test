@@ -747,12 +747,14 @@ a:hover
 	#header {
 		position: relative;
 		z-index: 1;
+		width: 100%;
 	}
 	
 	header
 	{
 		margin-bottom: 3em;
 		position: relative;
+		width: 100%;
 	}
 
 	header h2
