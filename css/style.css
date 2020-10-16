@@ -178,9 +178,9 @@ a:hover
 	ul.style3 li {
 		padding: 1.75em 0em 1.50em 0em;
 		border-top: 1px solid #212124;
-		color: #288b1b;
+		color: #0f40c9;
 		line-height: 1.75em;
-		list-style: decimal;
+		list-style-type: katakana;
 	}
 	
 	ul.style3 .heading-title {
