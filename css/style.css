@@ -174,7 +174,7 @@ a:hover
 		padding-bottom: 0px;
 		padding-left: 30px; 
 		list-style-image: url(images/deckerSmall.png);
-		list-style-position: inside;
+		list-style-position: outside;
 	}
 	
 	
