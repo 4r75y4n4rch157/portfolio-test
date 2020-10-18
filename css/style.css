@@ -180,7 +180,7 @@ a:hover
 	
 	ul.style3 .li {
 		padding: 1.75em 0em 1.50em 0em;
-		border-top: 1px solid #212124;
+		border-top: 1px solid #2e5c05;
 	}
 	
 	ul.style3 .heading-title {
@@ -248,7 +248,7 @@ a:hover
 	}
 	
 	ul.style4 a {
-		padding-left: 1em;
+		padding-left: 2em;
 		background: url(images/list-bullet.png) no-repeat left 50%;
 		text-decoration: none;
 		color: #909090;
