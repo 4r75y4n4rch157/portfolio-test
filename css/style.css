@@ -179,7 +179,7 @@ a:hover
 	
 	
 	ul.style3 li {
-		padding: 1.75em 0em 1.50em 0em;
+		padding: 5em 5em 5em 5em;
 		border-top: 1px solid #2e5c05;
 	}
 	
@@ -194,11 +194,11 @@ a:hover
 		margin: 0em 1em 1em 0em;
 		text-transform: uppercase;
 		font-size: .80em;
-		background: #2B8FC4;
+		background: #195700;
 		border-radius: 5px;
 		border: 1px solid #165272;
 		box-shadow: 0px 1px 5px rgba(0,0,0,.4);
-		color: #FFFFFF;
+		color: #00fa21;
 	}
 	
 	ul.style3 .date a
@@ -226,7 +226,8 @@ a:hover
 		text-decoration: underline;
 	}
 	ul.style h3 {
-		font-size: 18px;
+		font-size: 32px;
+		padding: 10px;
 	}
 
 	ul.style3 .first {
