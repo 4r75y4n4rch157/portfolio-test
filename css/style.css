@@ -43,6 +43,9 @@ p, ol, ul
 
 p
 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 a
@@ -105,6 +108,9 @@ a:hover
 
 	ul.style1
 	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	
 	ul.style1 li
@@ -302,6 +308,9 @@ a:hover
 
 		.fa.solo
 		{
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
 		}
 		
 			.fa.solo span
@@ -822,6 +831,9 @@ a:hover
 
 	#content
 	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	#content a img
@@ -846,6 +858,9 @@ a:hover
 
 	#sidebar
 	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	
 	#sidebar h2
@@ -890,11 +905,16 @@ a:hover
 	
 	#featured-content
 	{
-		
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	#featured-content h2
 	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	#featured-content img
