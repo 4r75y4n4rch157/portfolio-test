@@ -261,6 +261,9 @@ a:hover
 		background: url(images/list-bullet.png) no-repeat left 50%;
 		text-decoration: none;
 		color: #909090;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	
 	ul.style4 a:hover {
