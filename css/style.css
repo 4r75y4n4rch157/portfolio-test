@@ -52,7 +52,6 @@ a
 {
 	text-decoration: underline;
 	color: #909090;
-	list-style-image: url('images/moogle.png');
 }
 
 a:hover
@@ -156,6 +155,7 @@ a:hover
 	ul.style2 a {
 		text-decoration: none;
 		color: #909090;
+		list-style-image: url('images/moogle.png');
 	}
 	
 	ul.style2 a:hover {
