@@ -52,6 +52,7 @@ a
 {
 	text-decoration: underline;
 	color: #909090;
+	list-style-image: url('images/moogle.png');
 }
 
 a:hover
